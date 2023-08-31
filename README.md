@@ -1,8 +1,4 @@
 ### 
-20 years;
-Saint Petersburg;
-ITMO student;
-love Java;
 ⚡ Fun fact: when I was 8, I killed my homemade hamster.
 😄 Pronouns: "A lot needs to be sacrificed to achieve a good result"
  💬 Ask me about: tg - @ledvanov
