@@ -1,5 +1,11 @@
 ### 
-It is my university project. This is functional program that can choose sutable truck for your goods.
+20 years;
+Saint Petersburg;
+ITMO student;
+love Java;
+⚡ Fun fact: when I was 8, I killed my homemade hamster.
+😄 Pronouns: "A lot needs to be sacrificed to achieve a good result"
+ 💬 Ask me about: tg - @ledvanov
 
 <!--
 **VadimLedvanov/VadimLedvanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
