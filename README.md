@@ -1,5 +1,5 @@
 ### 
-Vadim, Java developer, 3rd year student at ITMO
+It is my university project. This is functional program that can choose sutable truck for your goods.
 
 <!--
 **VadimLedvanov/VadimLedvanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
