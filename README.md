@@ -1,5 +1,5 @@
 ### 
-⚡ Fun fact: when I was 8, I killed my homemade hamster.
+⚡ Java
 
 <!--
 **VadimLedvanov/VadimLedvanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
